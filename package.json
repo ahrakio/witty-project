@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ahrakio/witty-project#readme",
   "devDependencies": {
     "@types/node": "^10.5.1",
-    "ahrakio": "^1.1.9",
+    "ahrakio": "^1.2.9",
     "typescript": "^2.9.2",
     "typings": "^2.1.1"
   },
