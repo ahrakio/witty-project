@@ -5,6 +5,4 @@ export class EventController extends Controller {
     constructor() {
         super();
     }
-
-    
 }
