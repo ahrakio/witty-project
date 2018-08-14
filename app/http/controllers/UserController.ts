@@ -10,7 +10,7 @@ export class UserController extends Controller {
         console.log('tryout');
         if (1 == 1) {
             console.log(this.request);
-            return this.response.json(this.request.Route.Params, 401);
+            return this.response.json(this.request.Route.Params, 200);
         }
 
 
