@@ -6,8 +6,8 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon dist/index.js",
-    "build": "webpack --watch --progress --config config/webpack.config.js --colors"
+    "serve": "webpack --watch --progress --config config/dev-server.js",
+    "build": "webpack --progress --config config/build.js"
   },
   "repository": {
     "type": "git",
